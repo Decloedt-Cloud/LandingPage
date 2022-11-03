@@ -47,9 +47,9 @@ const DigitalAgency = () => {
             </div>
             <AboutOne />
             <ProjectOne />
-            <CounterUpOne />
-            <TestimonialOne />
-            <div className="section bg-color-light section-padding">
+            {/* <CounterUpOne /> */}
+            {/* <TestimonialOne /> */}
+            {/* <div className="section bg-color-light section-padding">
                 <div className="container">
                     <SectionTitle 
                         subtitle="Pricing Plan"
@@ -67,7 +67,7 @@ const DigitalAgency = () => {
                 </ul>
             </div>
             <BrandOne />
-            <BlogOne />
+            <BlogOne /> */}
             <CtaLayoutOne /> 
         <FooterOne parentClass="" />
         </main>
