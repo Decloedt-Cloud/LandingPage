@@ -28,10 +28,10 @@ const DigitalAgency = () => {
             <div className="section section-padding-2 bg-color-dark">
                 <div className="container">
                     <SectionTitle 
-                        subtitle="What We Can Do For You"
-                        title="Services we can help you with"
-                        description="Nulla facilisi. Nullam in magna id dolor 
-                        blandit rutrum eget vulputate augue sed eu imperdiet."
+                        subtitle="Que pouvons-nous faire pour vous ?                         "
+                        title="Services avec lesquels nous pouvons vous aider                        "
+                        // description="Nulla facilisi. Nullam in magna id dolor 
+                        // blandit rutrum eget vulputate augue sed eu imperdiet."
                         textAlignment="heading-light-left"
                         textColor=""
                     />

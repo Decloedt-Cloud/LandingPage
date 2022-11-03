@@ -11,9 +11,10 @@ const BannerOne = () => {
                     <div className="col-lg-6">
                         <div className="banner-content">
                             <AnimationOnScroll animateIn="fadeInUp" animateOnce={true} delay={100}>
-                                <h1 className="title">Build beautiful website &amp; mobile apps.</h1>
-                                <span className="subtitle">Create live segments and target the right people for messages based on their behaviors.</span>
-                                <Link to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-fill-primary btn-large">Get Started</Link>
+                                <h1 className="title">Nous sommes là pour vous aider à créer de magnifiques sites Web
+</h1>
+                                {/* <span className="subtitle">Create live segments and target the right people for messages based on their behaviors.</span> */}
+                                <Link to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-fill-primary btn-lg">Devis et consultation gratuite</Link>
                             </AnimationOnScroll>
                         </div>
                     </div>
