@@ -27,9 +27,12 @@ const FooterOne = ({ parentClass }) => {
                             <li><Link to="https://twitter.com/"><FaTwitter /></Link></li>
                             <li><Link to="https://www.pinterest.com/"><FaPinterestP /></Link></li> */}
               <li style={{ margin: "0 50%" }}>
-                <Link to="https://www.linkedin.com/">
+                <a
+                  target={"_blank"}
+                  href="https://www.linkedin.com/company/decloedtcloud/"
+                >
                   <FaLinkedin />
-                </Link>
+                </a>
               </li>
               {/* <li><Link to="https://www.instagram.com/"><FaInstagram /></Link></li>
                             <li><Link to="https://vimeo.com/"><FaVimeoV /></Link></li>
