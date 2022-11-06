@@ -154,7 +154,7 @@ const FooterOne = ({ parentClass }) => {
               <div className="footer-copyright">
                 <span className="copyright-text">
                   © {new Date().getFullYear()}. All rights reserved by{" "}
-                  <a href="https://axilthemes.com/">Axilthemes</a>.
+                  <a href="https://decloedt.cloud/">Decloedt</a>.
                 </span>
               </div>
             </div>

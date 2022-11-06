@@ -1,20 +1,22 @@
-import React from 'react'
+import React from "react";
 import PropTypes from "prop-types";
 
-
-const SEO = ( {title} ) => {
-    return (
-        <>
-            <meta charSet="utf-8" />
-            <title>Abstrak | {title}</title>
-            <meta name="robots" content="noindex, follow" />
-            <meta name="description" content="Creative Agency, Corporate and Portfolio React JS Template" />
-            <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        </>
-    )
-}
+const SEO = ({ title }) => {
+  return (
+    <>
+      <meta charSet="utf-8" />
+      <title>Decloedt | {title}</title>
+      <meta name="robots" content="noindex, follow" />
+      <meta name="description" content="Agence de dev" />
+      <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1, shrink-to-fit=no"
+      />
+    </>
+  );
+};
 SEO.propTypes = {
-    title: PropTypes.string
+  title: PropTypes.string,
 };
 
 export default SEO;
