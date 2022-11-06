@@ -2,17 +2,17 @@
     {
         "image": "/images/icon/icon-1.png",
         "title": "Design",
-        "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library."
+        "description": "Adopter des méthodes non conventionnelles qui nous emmènent plus loin et vous poussent plus loin"
     },
     {
         "image": "/images/icon/icon-2.png",
         "title": "Development",
-        "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library."
+        "description": "Nous fabriquons des produits logiciels qui résolvent les problèmes les plus sophistiqués en fonction de la charge de travail, des délais et des coûts estimés.        "
     },
     {
         "image": "/images/icon/icon-43.png",
         "title": "Hosting",
-        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "description": "Hosting dediée , hosting partagé , serverless ? nous avons tout        ",
         "cate": "Technology"
     }
 
