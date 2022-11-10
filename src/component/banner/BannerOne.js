@@ -14,16 +14,15 @@ const BannerOne = () => {
                 animateOnce={true}
                 delay={100}
               >
-                <h1 className="title">
-                  Nous sommes là pour vous aider à créer de magnifiques sites
-                  Web
-                </h1>
-                {/* <span className="subtitle">Create live segments and target the right people for messages based on their behaviors.</span> */}
+                <h1 className="title">Software expertise at your hand</h1>
+                <span className="subtitle">
+                  For businesses of all forms and shapes
+                </span>
                 <Link
                   to={process.env.PUBLIC_URL + "/contact"}
                   className="axil-btn btn-fill-primary btn-lg"
                 >
-                  Devis et consultation gratuite
+                  Need Talents ?
                 </Link>
               </AnimationOnScroll>
             </div>

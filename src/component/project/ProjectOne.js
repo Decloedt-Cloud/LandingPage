@@ -6,15 +6,8 @@ import ProjectData from "../../data/project/ProjectData.json";
 const filters = [
   {
     id: 1,
-    label: "All Works",
-  },
-  {
-    id: 2,
-    label: "Branding",
-  },
-  {
-    id: 3,
-    label: "Mobile",
+    label:
+      "All these tasks are combined into a full-cycle development process to cover all aspects of your project. ",
   },
 ];
 
@@ -64,9 +57,7 @@ const ProjectOne = ({ parentClass, colSize, itemShow, columnGap }) => {
           <SectionTitle
             subtitle="Our Project"
             title="
-			Certains de nos <br>
-			travails les plus fin.
-			"
+            What does your  <span class='text-danger'>BUSINESS NEED</span>  <br> right now ?"
             textAlignment="heading-left mb--40"
             textColor=""
           />

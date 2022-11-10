@@ -2,48 +2,48 @@
     {
         "id": 1,
         "image": "/images/project/project-1.png",
-        "title": "Creative Agency",
-        "category": ["Branding", "Website", "App"],
+        "title": "Business analysis",
+        "category": ["Project scoping and specification", "Consulting on tools, technologies, and services", "Tailored workflow models"],
         "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
         "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
     },
     {
         "id": 2,
         "image": "/images/project/project-2.png",
-        "title": "Digital Marketing",
-        "category": ["Logo", "Website", "Mobile"],
+        "title": "UI/UX",
+        "category": ["Prototyping and wireframing", "Mockups and user journeys / user flows sitemap", "UI kit and style guide"],
         "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
         "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
     },
     {
         "id": 3,
         "image": "/images/project/project-3.png",
-        "title": "Digital Agency",
-        "category": ["Website", "UI/UX"],
+        "title": "Development",
+        "category": ["Web Applications", "Native & Cross-platform Mobile Apps","CRM, ERP, HRM integration","Custom software development "],
         "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
         "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
     },
     {
         "id": 4,
         "image": "/images/project/project-4.png",
-        "title": "Plan Management",
-        "category": ["Branding", "Website", "Mobile"],
+        "title": "Design & Architecture",
+        "category": ["System, database and server architecture design", "Development automation", "Scalability and sustainability"],
         "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
         "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
     },
     {
         "id": 5,
         "image": "/images/project/project-5.png",
-        "title": "Social Engagement",
-        "category": ["Design", "Development"],
+        "title": "QA engineering        ",
+        "category": ["Manual and automatic testing", "Documentation and reports","Release notes and user guide"],
         "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
         "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
     },
     {
         "id": 6,
         "image": "/images/project/project-6.png",
-        "title": "Web Application",
-        "category": ["Logo", "Webapp", "Mobile"],
+        "title": "DevOps Automation",
+        "category": [" Cloud infrastructure solutions", "Continuous integration (CI) and delivery (CD)", "Virtualization and auto-scaling","Test automation"],
         "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
         "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
     },
