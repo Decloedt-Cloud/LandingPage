@@ -7,13 +7,13 @@ const CtaLayoutOne = () => {
       <div className="container">
         <div className="call-to-action">
           <div className="section-heading heading-light">
-            <span className="subtitle">Travaillons ensemble</span>
-            <h2 className="title">Besoin d'un projet réussi ?</h2>
+            <span className="subtitle">Let's work together</span>
+            <h2 className="title">Need for a successful project ?</h2>
             <Link
               to={process.env.PUBLIC_URL + "/contact"}
               className="axil-btn btn-large btn-fill-white"
             >
-              Estimer votre projet
+              Estimate your project
             </Link>
           </div>
           <div className="thumbnail">
