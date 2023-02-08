@@ -14,7 +14,7 @@ const BannerOne = () => {
                 animateOnce={true}
                 delay={100}
               >
-                <h1 className="title">Software expertise at your hand - test</h1>
+                <h1 className="title">Software expertise at your hand</h1>
                 <span className="subtitle">
                   For businesses of all forms and shapes
                 </span>
