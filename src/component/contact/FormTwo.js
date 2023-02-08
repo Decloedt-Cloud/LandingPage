@@ -84,7 +84,7 @@ const FormTwo = () => {
           className="axil-btn btn-fill-primary btn-fluid btn-primary"
           name="submit-btn"
         >
-          Devis Gratuit
+          Free quote
         </button>
       </div>
       <div className="form-group">{result ? <Result /> : null}</div>

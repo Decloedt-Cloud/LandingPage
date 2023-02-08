@@ -46,7 +46,7 @@ const Nav = () => {
           </ul> */}
         </li>
         <li className="menu-item-has-children">
-          <a href="https://www.decloedt.cloud/#Projects">Services</a>
+          <a href="https://www.decloedt.cloud/#Services">Services</a>
           {/* <ul className="axil-submenu">
             <li>
               <Link to={process.env.PUBLIC_URL + "/project-grid-one"}>
