@@ -13,18 +13,24 @@ const AboutOne = () => {
 
                 <h2 className="title mb--40">
                   {" "}
-                  Nous concevons, codons &amp; développons.
+                  We design, code &amp; develop.
                 </h2>
                 <p>
-                  Nulla et velit gravida, facilisis quam a, molestie ante.
-                  Mauris placerat suscipit dui, eget maximus tellus blandit a.
-                  Praesent non tellus sed ligula commodo blandit in et mauris.
-                  Quisque efficitur ipsum ut dolor molestie pellentesque.{" "}
+                We are a dynamic and innovative web application development 
+                agency that is dedicated to helping businesses achieve their online goals. 
+                Our team of experienced developers and designers utilize the latest technologies 
+                and methodologies to deliver custom web solutions that are tailored to meet the unique 
+                needs of each of our clients..{" "}
                 </p>
                 <p>
-                  Nulla pharetra hendrerit mi quis dapibus. Quisque luctus,
-                  tortor a venenatis fermentum, est lacus feugiat nisl, id
-                  pharetra odio enim eget libero.{" "}
+                With a focus on user experience and optimal performance, 
+                we work closely with clients to ensure their web applications are 
+                not only visually appealing but also functional and easy to use.{" "}
+                </p>
+                <p>
+                Whether you're looking to launch a new web app, improve your existing one, 
+                or require ongoing support and maintenance, 
+                we have the expertise to deliver the results you need.{" "}
                 </p>
               </div>
             </div>
@@ -32,7 +38,7 @@ const AboutOne = () => {
 
           <div className="col-xl-5 col-lg-6 offset-xl-1">
             <div className="contact-form-box">
-              <h3 className="title">Prend un rendez vous gratuit</h3>
+              <h3 className="title">Book a free appointment.</h3>
               <FormOne />
             </div>
           </div>

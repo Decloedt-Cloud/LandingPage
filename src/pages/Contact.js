@@ -23,17 +23,16 @@ const Contact = () => {
               <div className="col-xl-5 col-lg-6">
                 <div className="contact-form-box shadow-box mb--30">
                   <h3 className="title">
-                    Obtenez un devis Decloedt gratuit maintenant
+                    Get a free Decloedt quote now.
                   </h3>
                   <FormTwo />
                 </div>
               </div>
               <div className="col-xl-5 col-lg-6 offset-xl-1">
                 <div className="contact-info mb--100 mb_md--30 mt_md--0 mt--150">
-                  <h4 className="title">Telephone</h4>
+                  <h4 className="title">Phone</h4>
                   <p>
-                    Notre service client est ouvert du lundi au vendredi de
-                    10h00 à 18h00
+                     Our customer service is open from Monday to Friday from 09:00 AM to 6:00 PM.
                   </p>
                   <h4 className="phone-number">
                     <a href="tel:1234567890">(+32) 479396998</a>
@@ -42,8 +41,7 @@ const Contact = () => {
                 <div className="contact-info mb--30">
                   <h4 className="title">Email</h4>
                   <p>
-                    Notre équipe d'assistance vous répondra dans les 48 heures
-                    pendant les heures normales d'ouverture.
+                  Our support team will respond to you within 48 hours during normal business hours.
                   </p>
                   <h4 className="phone-number">
                     <a href="mailto:info@decloedt.cloud">info@decloedt.cloud</a>

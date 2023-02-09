@@ -47,10 +47,6 @@ const FooterOne = ({ parentClass }) => {
               <div className="footer-widget border-end">
                 <div className="footer-newsletter">
                   <h2 className="title">Get in touch!</h2>
-                  <p>
-                    Fusce varius, dolor tempor interdum tristique, dui urna bib
-                    endum magna, ut ullamcorper purus
-                  </p>
                   <form>
                     <div className="input-group">
                       <span className="mail-icon">
