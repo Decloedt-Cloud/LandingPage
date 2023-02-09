@@ -34,7 +34,7 @@ const ProjectDetails = () => {
             paragraph ={detailsProject.excerpt}
             mainThumb={detailsProject.image}
             />
-            {/* <section className="section-padding single-portfolio-area">
+            <section className="section-padding single-portfolio-area">
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-5">
@@ -82,7 +82,7 @@ const ProjectDetails = () => {
                         </div>
                     </div>
                 </div>
-            </section> */}
+            </section>
             <VideoOne />
             <CtaLayoutOne />
         <FooterOne parentClass="" />

@@ -41,7 +41,7 @@ const OffcanvasMenu = ({ offcanvasShow, offcanvasHide }) => {
               </li>
               <li>
                 <Link to={process.env.PUBLIC_URL + "/contact"}>
-                  Get a free quote
+                  Avoir un devis gratuit
                 </Link>
               </li>
               {/* <li>
@@ -70,7 +70,7 @@ const OffcanvasMenu = ({ offcanvasShow, offcanvasHide }) => {
                 </address>
                 <address className="address">
                   <span className="title">
-                      We are available 24/7. Call now.
+                    Nous sommes disponibles 24h/24 et 7j/7. Appelle maintenant.
                   </span>
                   <a href="tel:+32479396998" className="tel">
                     <FaPhone /> (+32) 479396998
@@ -79,7 +79,7 @@ const OffcanvasMenu = ({ offcanvasShow, offcanvasHide }) => {
                 </address>
               </div>
               <div className="contact-inner">
-                <h5 className="title">Find us here.</h5>
+                <h5 className="title">Retrouvez-nous ici</h5>
                 <div className="contact-social-share">
                   <ul className="social-share list-unstyled">
                     {/* <li>

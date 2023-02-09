@@ -18,10 +18,10 @@ const Nav = () => {
                     </ul> */}
         </li>
         <li className="menu-item-has-children">
-          <Link to="#Standards">
-              Standards 
+          <Link to="#">
+            Services <FaAngleDown />
           </Link>
-          {/* <ul className="axil-submenu">
+          <ul className="axil-submenu">
             <li>
               <Link
                 to={process.env.PUBLIC_URL + "/service-details/development"}
@@ -43,10 +43,10 @@ const Nav = () => {
                 PLACEHOLDER SERVICE
               </Link>
             </li>
-          </ul> */}
+          </ul>
         </li>
         <li className="menu-item-has-children">
-          <a href="https://www.decloedt.cloud/#Services">Services</a>
+          <a href="https://www.decloedt.cloud/#Projects">Projects</a>
           {/* <ul className="axil-submenu">
             <li>
               <Link to={process.env.PUBLIC_URL + "/project-grid-one"}>

@@ -8,7 +8,7 @@ const VideoOne = () => {
     const [toggler, setToggler] = useState(false);
 
     return (
-        <>{/* 
+        <>
             <div className="section section-padding-equal bg-color-light">
                 <div className="container">
                     <div className="about-expert">
@@ -25,7 +25,7 @@ const VideoOne = () => {
                     <li className="shape shape-2"><img src={process.env.PUBLIC_URL + "/images/others/bubble-2.png"} alt="Line" /></li>
                     <li className="shape shape-3"><img src={process.env.PUBLIC_URL + "/images/others/bubble-1.png"} alt="Line" /></li>
                 </ul>
-        </div> */}
+        </div>
         <FsLightbox toggler={ toggler } sources={ ['https://www.youtube.com/watch?v=1iIZeIy7TqM'] }/>
     </>
     )
