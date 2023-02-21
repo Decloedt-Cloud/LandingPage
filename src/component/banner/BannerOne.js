@@ -51,7 +51,7 @@ const BannerOne = () => {
                 <div className="large-thumb-2">
                   <img
                     src={
-                      process.env.PUBLIC_URL + "/images/banner/laptop-poses.png"
+                      process.env.PUBLIC_URL + "/images/banner/HelloRobot.png"
                     }
                     alt="Laptop"
                   />

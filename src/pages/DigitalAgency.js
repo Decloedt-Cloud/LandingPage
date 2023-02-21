@@ -24,7 +24,7 @@ const DigitalAgency = () => {
         <HeaderOne />
         <BannerOne />
         <div className="section section-padding-2 bg-color-dark">
-          <div className="container" id="Standards">
+          <div className="container" id="standards">
             <SectionTitle
               subtitle="Some of the things we provide"
               title="State-of-the-art standards"

@@ -18,35 +18,17 @@ const Nav = () => {
                     </ul> */}
         </li>
         <li className="menu-item-has-children">
-          <Link to="#Standards">
-              Standards 
-          </Link>
-          {/* <ul className="axil-submenu">
-            <li>
-              <Link
-                to={process.env.PUBLIC_URL + "/service-details/development"}
-              >
-                WEB DEV
-              </Link>
-            </li>
-            <li>
-              <Link
-                to={process.env.PUBLIC_URL + "/service-details/development"}
-              >
-                PLACEHOLDER SERVICE
-              </Link>
-            </li>
-            <li>
-              <Link
-                to={process.env.PUBLIC_URL + "/service-details/development"}
-              >
-                PLACEHOLDER SERVICE
-              </Link>
-            </li>
-          </ul> */}
+          <a href="\#standards">Standards</a>
         </li>
         <li className="menu-item-has-children">
-          <a href="https://www.decloedt.cloud/#Services">Services</a>
+             <a href="\#Aboutus">About us</a>
+        </li>
+        <li className="menu-item-has-children">
+             <a href="\#Services">Services</a>
+        </li>
+        
+        
+       
           {/* <ul className="axil-submenu">
             <li>
               <Link to={process.env.PUBLIC_URL + "/project-grid-one"}>
@@ -79,9 +61,9 @@ const Nav = () => {
               >
                 Portfolio Details
               </Link>
-            </li> */}
+            </li> </li>*/}
           {/* </ul> */}
-        </li>
+        
         {/* <li className="menu-item-has-children">
           <Link to="#">
             Pages <FaAngleDown />

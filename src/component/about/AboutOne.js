@@ -4,7 +4,7 @@ import FormOne from "../contact/FormOne";
 const AboutOne = () => {
   return (
     <section className="section section-padding-equal bg-color-light">
-      <div className="container">
+      <div className="container" id="Aboutus">
         <div className="row align-items-center">
           <div className="col-lg-6">
             <div className="about-us">

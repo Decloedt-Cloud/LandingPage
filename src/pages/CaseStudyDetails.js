@@ -36,6 +36,7 @@ const CaseDetails = () => {
                 <HeaderOne />
                 <BcrumbBannerTwo 
                     title={detailsCase.title}
+                    //paragraph ={detailsCase.category}
                     paragraph ={detailsCase.excerpt}
                     mainThumb={detailsCase.thumb}
                 />

@@ -53,7 +53,7 @@ const ProjectOne = ({ parentClass, colSize, itemShow, columnGap }) => {
           parentClass ? parentClass : ""
         }`}
       >
-        <div className="container" id="Projects">
+        <div className="container" id="Services">
           <SectionTitle
             subtitle="Our Project"
             title="
