@@ -40,7 +40,7 @@ const ServiceDetails = () => {
             />
             <AboutTwo />
            
-            <ProcessOne />
+            {/* <ProcessOne /> */}
             <div className="section section-padding">
                 <div className="container">
                     <SectionTitle 

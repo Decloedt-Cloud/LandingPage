@@ -88,15 +88,13 @@ const FooterOne = ({ parentClass }) => {
                     </div>
                   </div>
                 </div>
-                <div className="col-sm-3">
+                {/* <div className="col-sm-3">
                   <div className="footer-widget">
                     <h6 className="widget-title">Resourses</h6>
                     <div className="footer-menu-link">
                       <ul className="list-unstyled">
                         <li>
-                          <Link to={process.env.PUBLIC_URL + "/blog-grid"}>
-                            Blog
-                          </Link>
+                          <Link to="/">Blog</Link>
                         </li>
                         <li>
                           {" "}
@@ -114,7 +112,7 @@ const FooterOne = ({ parentClass }) => {
                       </ul>
                     </div>
                   </div>
-                </div>
+                </div> */}
                 <div className="col-sm-3">
                   <div className="footer-widget">
                     <h6 className="widget-title">Support</h6>
@@ -122,10 +120,10 @@ const FooterOne = ({ parentClass }) => {
                       <ul className="list-unstyled">
                         <li>
                           <Link to={process.env.PUBLIC_URL + "/contact"}>
-                            Contact
+                            Contact us
                           </Link>
                         </li>
-                        <li>
+                    {/*     <li>
                           {" "}
                           <Link to={process.env.PUBLIC_URL + "/privacy-policy"}>
                             Privacy Policy
@@ -135,7 +133,7 @@ const FooterOne = ({ parentClass }) => {
                           <Link to={process.env.PUBLIC_URL + "/terms-use"}>
                             Terms of Use
                           </Link>
-                        </li>
+                        </li> */}
                       </ul>
                     </div>
                   </div>
