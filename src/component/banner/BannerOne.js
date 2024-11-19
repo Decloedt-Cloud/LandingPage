@@ -24,6 +24,15 @@ const BannerOne = () => {
                 >
                   Need Talents ?
                 </Link>
+
+                <a 
+                className="axil-btn btn-fill-primary btn-lg" 
+                href="https://wayo.academy/" 
+                target="_blank" 
+                rel="noopener noreferrer">
+                Explore Our eLearning Platform
+                </a>
+          
               </AnimationOnScroll>
             </div>
           </div>
